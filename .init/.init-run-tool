@@ -1,0 +1,4 @@
+{
+    "command": "sudo ./startup.sh && cd db_visualizer && PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/task-scheduler-pro-215323-215339/task_scheduler_database"
+}

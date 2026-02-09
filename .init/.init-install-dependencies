@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/task-scheduler-pro-215323-215339/task_scheduler_database"
+}
